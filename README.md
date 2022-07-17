@@ -5,7 +5,7 @@ a unity build universal space museum ...
 
 
 clone and run in unity
-delete package chache if error found
+delete package chache in library folder if error found
 
 
 
